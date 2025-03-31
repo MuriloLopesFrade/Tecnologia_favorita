@@ -1,0 +1,33 @@
+body {
+    font-family: "Poppins", sans-serif; 
+    background-color: #ccc;
+    padding: 1% 5%;
+}  
+
+.container{
+    height: auto;
+    width: 100%;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+img{
+    width: 32%;
+    border-radius: 10px;
+    
+}
